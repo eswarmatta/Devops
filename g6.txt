@@ -1,2 +1,3 @@
 
 Hai, I am learning git and devops
+Learning linux also
